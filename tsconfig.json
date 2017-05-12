@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "skipLibCheck": true,
+        "target": "es6",
+        "rootDir":"./",
+        "outDir": "build"
+    },
+    "exclude": [
+        "node_modules",
+        "build"
+    ]
+}
